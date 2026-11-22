@@ -1,0 +1,6 @@
+{
+  "name": "Okean Naviqatoru",
+  "description": "Gəmilərin tropik siklonlardan yayınmasını və okeanologiya qanunlarını öyrədən 3D okean simulyasiyası və taktiki radar oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
